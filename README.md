@@ -5,26 +5,25 @@
 
 ## 🚀 精選 Side Projects (實作與自動化能力)
 
-### 1. 數理統計作業自動化生成系統 (臺大數理統計課程助教專案)
-* **時間軸**：📅 114.09 - 114.12 (2025.09 - 2025.12)
-* **核心技術**：JavaScript (ES6), Google Apps Script (GAS), Regex, HTML/CSS, MathJax
+### 1. 數理統計作業自動化生成系統
+* **時間軸**：📅 114.09 - 114.12
+* **核心技術**：Latex, Google Apps Script (GAS)
 * **專案概述**：
   * 擔任臺灣大學數理統計課程助教期間，負責批改作業與公告相關事務。
   * 為承接並延續歷屆助教累積之題庫心血，獨立開發此網頁系統，成功取代原先需要在多個視窗間手動複製貼上 LaTeX 語法的低效流程。
 * **技術亮點**：
-  * **開發**「正規表達式隔離演算法」，完美相容 `array` 矩陣與 `itemize` 清單，解決跨平台渲染衝突。
+  * **開發** 解決跨平台渲染衝突。
   * **設計** Excel 快取機制優化後端 I/O 效能，將網頁載入時間自 5 秒縮短至 **0.5 秒內**。
-  * **導入** 響應式網頁設計（CSS RWD），優化行動端手機瀏覽體驗，提升 **80% 出題效率**。
+  * **導入** 響應式網頁設計（CSS RWD），優化行動端手機瀏覽體驗，提升 **80% 出題效率**，出題僅需用手機。
 
 ![數理統計作業產生器系統畫面](images/數統出題.png)
 
-🔗 [點此進入：線上即時體驗網頁](https://script.google.com/macros/s/AKfycbxIqI8Mx2iI_m22nGlSWJW0gZNJp0sf3FmFH-gwinz4VEpYL_bu1_gLKf50stD6HbGQ8Q/exec)
-💻 [點此進入：GitHub 完整原始碼倉庫](這裡放妳這個專案的Code倉庫連結)
+🔗 [點此進入：數理統計作業自動化生成系統](https://script.google.com/macros/s/AKfycbxIqI8Mx2iI_m22nGlSWJW0gZNJp0sf3FmFH-gwinz4VEpYL_bu1_gLKf50stD6HbGQ8Q/exec)
 
 ---
 
 ### 2. 社團財務預算與講義庫存自動化管理系統 (臺大易學研究社總務專案)
-* **時間軸**：📅 [填入妳擔任總務的時間，例如 113.09 - 114.06]
+* **時間軸**：📅 114.07 - 115.06
 * **核心技術**：Excel / Google Sheets, Google Apps Script (GAS) 自動化, 資料結構設計, 庫存管理
 * **專案概述**：
   * 擔任臺大易學研究社總務期間，負責管理社團學期財務預算與講義庫存。
@@ -37,12 +36,11 @@
 ![易學社存根聯紀錄](images/易學社存根聯紀錄.png)
 ![易學社帳目紀錄](images/易學社帳目紀錄.png)
 
-💻 [點此進入：GitHub 專案原始碼 / 試算表範本倉庫](https://script.google.com/macros/s/AKfycbxTq8YdgK8zcEG7McIN6Qf3QQCslgfpfzFGvQEXpyP8f96jPKavwBJKg6gMVAU3vMXS/exec)
-
-## 📊 學術研究專題 (統計建模與高維度數據分析)
-*（點擊圖片下方的連結，可下載/檢視高清完整版 PDF 研究海報）*
+💻 [點此進入：社團財務預算與講義庫存自動化管理系統](https://script.google.com/macros/s/AKfycbxTq8YdgK8zcEG7McIN6Qf3QQCslgfpfzFGvQEXpyP8f96jPKavwBJKg6gMVAU3vMXS/exec)
 
 ---
+
+## 📊 學術研究專題 (統計建模與高維度數據分析)
 
 ### 1. A Generalized Information Model Selection Criterion for Product-Principal Component Analysis
 * **時間與獎項**：📅 115.05 (2026.05) | 🏆 **傑出海報獎**（國立臺灣大學公共衛生學院生物統計學群 - 研究生成果海報展）
@@ -52,8 +50,6 @@
   * 相較傳統 PCA-GIC 方法，在**維持相同數據還原能力**的前提下，成功**減少 15% ~ 20% 的主成分數量**，有效提升高維資料分析效率與模型解釋性。
 
 ![GIC研究海報](images/A%20Generalized%20Information%20Model%20Selection%20Criterion_page-0001.jpg)
-
-📥 [連結：檢視 / 下載高清完整版 PDF 研究海報](images/A%20Generalized%20Information%20Model%20Selection%20Criterion.pdf)
 
 ---
 
@@ -66,8 +62,6 @@
 
 ![界限選擇權海報](images/界限選擇權的評價與避險_page-0001.jpg)
 
-📥 [連結：檢視 / 下載高清完整版 PDF 研究海報](images/界限選擇權的評價與避險.pdf)
-
 ---
 
 ### 3. Direct Fast Solver for Incompressible Navier-Stokes Equations
@@ -78,5 +72,3 @@
   * **在不增加額外 CPU 計算成本的條件下**，成功將數值誤差收斂階數**精準提升至 1.99**，完美兼顧運算效率與高品質的模擬精度。
 
 ![Navier-Stokes海報](images/Direct%20Fast%20Solver%20for%20Incompressible%20Navier-Stokes%20Equations_page-0001.jpg)
-
-📥 [連結：檢視 / 下載高清完整版 PDF 研究海報](images/Direct%20Fast%20Solver%20for%20Incompressible%20Navier-Stokes%20Equations.pdf)
