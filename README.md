@@ -29,7 +29,7 @@
 ![易學社存根聯](images/易學社存根聯紀錄.png)
 ![易學社帳目紀錄](images/易學社帳目紀錄.png)
 
-💻 [點此進入：社團財務預算與講義庫存自動化管理系統](https://script.google.com/macros/s/AKfycbTq8YdgK8zcEG7McIN6Qf3QQCslgfpfzFGvQEXpyP8f96jPKavwBJKg6gMVAU3vMXS/exec)
+💻 [點此進入：社團財務預算與講義庫存自動化管理系統](https://script.google.com/macros/s/AKfycbyKFvZjtQVc-R3Axb4aL3S4ZukqXQ5aCo8sQcRWUYbzc8JAZUwW27GLekd4HrgKpqLy/exec)
 
 ---
 
